@@ -36,7 +36,7 @@ numpy==1.19.5
 matplotlib==3.4.3
 scikit-learn==0.24.2
 Pillow==8.3.1
-
+```
 
 
 #  2.Classical Chinese Poetry Generation with RNN
@@ -71,7 +71,7 @@ Python 3.7+
 tensorflow==2.5.0
 numpy==1.19.5
 scikit-learn==0.24.2
-
+```
 
 
 ## Dataset Preparation
