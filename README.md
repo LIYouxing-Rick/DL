@@ -71,7 +71,8 @@ Python 3.7+
 tensorflow==2.5.0
 numpy==1.19.5
 scikit-learn==0.24.2
-```
+
+
 
 ## Dataset Preparation
 1. Poetry text file format:
